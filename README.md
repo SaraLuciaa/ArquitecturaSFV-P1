@@ -33,8 +33,9 @@ Para el script de automatización (`script.sh`) se realizaron las siguientes acc
 3. **Reproducibilidad:** El proceso de construcción y despliegue es consistente, asegurando que los resultados sean los mismos en cada ejecución.
 
 ## Captura de Pantalla
-![Evidencia de la aplicación corriendo en Docker](./screenshot/home.png)
-![Evidencia de la aplicación corriendo en Docker](./screenshot/health.png)
+![](./screenshot/home.png)
+![](./screenshot/health.png)
+![](./screenshot/bash.png)
 
 ## Mejoras Futuras
 1. Implementar pruebas automatizadas adicionales para validar endpoints y lógica de negocio.
